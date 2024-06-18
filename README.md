@@ -1,5 +1,17 @@
 # Project Name: E-ShopNest
 
+### commit Message
+
+Good commit Message:
+
+- Fix #42: Resolve null pointer exception in UserService
+- Update: Enhance user profile UI for better accessibility
+
+Bad Commit Messages:
+
+- Changes
+- Fix bugs
+
 ## Installation
 
 1. Clone the repository:
